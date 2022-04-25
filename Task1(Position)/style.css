@@ -1,0 +1,70 @@
+.boxs{
+    width: 100%;
+    border: 3px solid black;
+    border-radius: 20px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.sol{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 20px;
+}
+.orta {
+    width: 45%;
+    height: 79px;
+    background-color: yellow;
+    position: relative;
+    top: 30px;
+    left: -7%;  
+}
+.sag{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 20px;
+
+}
+.orta .box1{
+    width: 181px;
+    height: 53px;
+    background-color: #0095EE;
+    position: absolute;
+    bottom: 0;
+    left: 46px;
+}
+.orta .box1 .boxred{
+    width: 43px;
+    height: 34px;
+    background-color: red;
+    position:absolute ;
+    right: 0;
+}
+.orta .box2{
+    width: 30%;
+    height: 53%;
+    background-color: #0095EE;
+    position: relative;
+    bottom: -47%;
+    left: 43%;
+    
+}
+.orta .box3 {
+    width: 15%;
+    height: 54%;
+    background-color: #0095EE;
+    position: absolute;
+    bottom: 0;
+    left: 80%;
+}
+
+.sag .green{
+    width: 71%;
+    height: 63%;
+    border: 3px solid green;
+    position: relative;
+    top: 17px;
+    left: 11%;
+}
