@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    margin-top: 2px;
+}
+.box p {
+    font-size: 30px;
+    margin-bottom: 20px;
+    background-color: grey;
+    position: sticky;
+    top: 0;
+}
+
+.box li{
+list-style: none;
+font-size: 20px;
+
+
+}
+
+.box ul{
+    padding: 20px;
+}
